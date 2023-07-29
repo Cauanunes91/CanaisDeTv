@@ -1,0 +1,22 @@
+html{
+    background-image: url(img/arena1080.jpg);
+   text-align: center;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+}
+iframe{
+    border: 10px  #03ff18e5 ;
+    border-style: groove;
+    border-radius: 18px;
+}
+
+img{
+    border: 10px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin: 25px;
+    width: 200px;
+}
