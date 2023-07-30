@@ -1,3 +1,6 @@
+
+
+
 html{
     background-image: url(img/arena1080.jpg);
    text-align: center;
@@ -11,6 +14,19 @@ iframe{
     border: 10px  #03ff18e5 ;
     border-style: groove;
     border-radius: 18px;
+}
+button{
+    width: 123px;
+    height: 70px;
+    font-size: 20px;
+    margin: 11px;
+    border: 5px groove rgba(241, 245, 6, 0.993);
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(255, 255, 255, 0.801);
+    font-weight: 200;
+    background-color: rgba(94, 255, 1, 0.336);
+    
 }
 
 img{
